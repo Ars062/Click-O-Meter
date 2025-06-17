@@ -17,7 +17,7 @@
 
 ## 📸 App Preview
 
-![Click-O-Meter Screenshot](./screenshot.png)
+![Click-O-Meter Screenshot](./click-o-meter.jpg)
 
 
 
