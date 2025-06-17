@@ -1,50 +1,38 @@
-# Welcome to your Expo app 👋
+# 📱 Click-O-Meter
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**Click-O-Meter** is a simple and intuitive **counter app** built using **React Native** and **Expo**. It’s designed to keep track of how many times you click — perfect for keeping score, counting reps, tracking tasks, and more!
+## 🚀 Features
 
-## Get started
+- 🔢 Starts counting from **0**
+- 🚫 Counter **never goes below 0**
+- ➕ Tap to **increase** the count
+- ♻️ Optional **reset** feature (coming soon!)
+- 💡 Built with **React Native + Expo**
+- 📦 Packaged as an **APK** for Android devices
 
-1. Install dependencies
 
-   ```bash
-   npm install
-   ```
+## 📲 Download the APK
 
-2. Start the app
+🔗 [Download Click-O-Meter APK](https://xxx.com)  
 
-   ```bash
-   npx expo start
-   ```
+## 📸 App Preview
 
-In the output, you'll find options to open the app in a
+![Click-O-Meter Screenshot](./screenshot.png)
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-## Get a fresh project
+## 🧠 How It Works
 
-When you're ready, run:
+- The app starts with a count of **0**
+- Each button press increments the counter by **1**
+- The counter is **restricted from going negative**
+- Clean, minimal design for a focused experience
 
-```bash
-npm run reset-project
-```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## 🛠️ Tech Stack
 
-## Learn more
+- **React Native**
+- **Expo**
+- **JavaScript**
+- **React Hooks** (`useState`)
 
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
