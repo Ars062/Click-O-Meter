@@ -13,7 +13,7 @@
 
 ## 📲 Download the APK
 
-🔗 [Download Click-O-Meter APK](https://google.com)  
+🔗 [Download Click-O-Meter APK](https://github.com/Ars062/Click-O-Meter/releases/download/v1.0/base.apk)  
 
 ## 📸 App Preview
 
