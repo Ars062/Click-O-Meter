@@ -4,7 +4,7 @@
     "slug": "Click-O-Meter",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/click-o-meter.jpg",
     "scheme": "clickometer",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -12,8 +12,15 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.ars062.ClickOMeter",
+      "versionCode": 1,
+      "permissions": [
+        "VIBRATE",
+        "INTERNET"
+      ],
+      "softwareKeyboardLayoutMode": "pan",
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "foregroundImage": "./assets/images/click-o-meter.png",
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true
@@ -21,14 +28,14 @@
     "web": {
       "bundler": "metro",
       "output": "static",
-      "favicon": "./assets/images/favicon.png"
+      "favicon": "./assets/images/click-o-meter.png"
     },
     "plugins": [
       "expo-router",
       [
         "expo-splash-screen",
         {
-          "image": "./assets/images/splash-icon.png",
+          "image": "./assets/images/click-o-meter.png",
           "imageWidth": 200,
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
@@ -37,6 +44,12 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "50a0c18e-5293-4ab4-9610-3e8f775bcf81"
+      }
     }
   }
 }
