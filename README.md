@@ -18,7 +18,7 @@
 ## 📸 App Preview
 
 ![Click-O-Meter Screenshot](./click-o-meter.jpg)
-https://drive.google.com/file/d/16mYbY5gVuhrL0UzsSibK-6QO1w8JJd1c/view
+App demo: https://drive.google.com/file/d/16mYbY5gVuhrL0UzsSibK-6QO1w8JJd1c/view
 
 
 
